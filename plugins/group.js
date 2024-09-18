@@ -133,7 +133,7 @@ reply('Error!!')
 
 
 cmd({
-    pattern: "remove",
+    pattern: "kick",
     desc: "Remove a member from the group.",
     category: "group",
     react: "🚫",
